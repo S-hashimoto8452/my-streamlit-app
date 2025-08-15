@@ -2,3 +2,5 @@ streamlit
 gTTS
 edge-tts
 pydub
+pyaudioop
+imageio-ffmpeg
